@@ -18,7 +18,7 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/zaach/jison.git"
+    "url": "git://github.com/pft/jison.git"
   },
   "bugs": {
     "email": "jison@librelist.com",
